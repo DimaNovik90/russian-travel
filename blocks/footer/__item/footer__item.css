@@ -1,0 +1,13 @@
+.footer__item {
+  margin-right: 18px;
+}
+@media screen and (max-width: 320px) {
+  .footer__item {
+    padding-bottom: 32px;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 500px) {
+  .footer__item {
+    padding-bottom: 32px;
+  }
+}

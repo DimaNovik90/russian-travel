@@ -1,0 +1,16 @@
+.place__image {
+  width: 100%;
+  height: auto;
+  grid-row: 2;
+}
+@media screen and (max-width: 320px) {
+  .place__image {
+    grid-row: 3;
+    width: 320px;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 381px) {
+  .place__image {
+    grid-row: 3;
+  }
+}

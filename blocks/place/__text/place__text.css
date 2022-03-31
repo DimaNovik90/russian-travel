@@ -1,0 +1,10 @@
+@media screen and (max-width: 320px) {
+  .place__text {
+    padding: 0 16px;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 381px) {
+  .place__text {
+    padding: 0 16px;
+  }
+}
