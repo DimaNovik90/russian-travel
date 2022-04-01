@@ -9,7 +9,9 @@
 }
 @media screen and (max-width: 768px) {
   .intro {
+    padding-right: 24px;
     padding-left: 24px;
+    max-width: 768px;
   }
 }
 @media screen and (max-width: 320px) {

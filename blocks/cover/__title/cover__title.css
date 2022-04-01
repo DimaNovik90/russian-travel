@@ -13,9 +13,9 @@
     line-height: 35px;
   }
 }
-@media screen and (min-width: 321px) and (max-width: 381px){
+@media screen and (min-width: 321px) and (max-width: 400px){
   .cover__title {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 39px;
   }
 }

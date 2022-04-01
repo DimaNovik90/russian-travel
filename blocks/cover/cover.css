@@ -30,9 +30,14 @@
     min-height: 480px;
   }
 }
-
-@media screen and (min-width: 321px) and (max-width: 381px){
+@media screen and (max-width: 320px) {
   .cover {
+    min-height: 200px;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 381px) {
+  .cover {
+    min-height: 220px;
     width: 100%;
   }
 }
