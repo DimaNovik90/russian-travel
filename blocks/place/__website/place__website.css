@@ -8,8 +8,4 @@
     padding-left: 16px;
   }
 }
-@media screen and (min-width: 321px) and (max-width: 381px) {
-  .place__website {
-    padding-left: 16px;
-  }
-}
+

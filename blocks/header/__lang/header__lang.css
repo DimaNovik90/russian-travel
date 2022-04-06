@@ -3,4 +3,6 @@
   padding: 0;
   list-style: none;
   display: flex;
+  min-height: 41px;
+  align-items: flex-end;
 }

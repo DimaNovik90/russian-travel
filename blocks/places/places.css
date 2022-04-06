@@ -1,8 +1,6 @@
 .places {
   max-width: 984px;
   margin: 0 auto;
-  padding-left: 148px;
-  padding-right: 148px;
 }
 @media screen and (max-width: 1024px) {
   .places {
@@ -28,12 +26,6 @@
 @media screen and (max-width: 320px) {
   .places {
     max-width: 320px;
-    padding: 0;
-  }
-}
-@media screen and (min-width: 321px) and (max-width: 381px) {
-  .places {
-    width: 100%;
     padding: 0;
   }
 }
